@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **JAVA, Python, PHP, HTML/CSS, JS and SQL**
 
 - 📫 How to reach me **timeo.corven@gmail.com**
-- ⚡ Fun fact **I love sport**
 
 <div> <a href="https://www.linkedin.com/in/timéo-corven-4b26811a0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/TimeoCrv" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
