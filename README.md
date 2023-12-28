@@ -1,23 +1,8 @@
 ### Hi there 👋
-
-<!--
-**TimeoCrv/TimeoCrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Timéo Corven</h1>
 <h3 align="center">I'm a French Junior Developer !</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TimeoCrv&label=Profile%20views&color=0e75b6&style=flat" alt="TimeoCrv" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TimeoCrv&theme=" alt="TimeoCrv" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA, Python, PHP, HTML/CSS, JS and SQL**
 
@@ -45,10 +30,3 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mariadb-icon.svg" alt="Mariadb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimeoCrv&layout=compact&theme=" alt=TimeoCrv />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=TimeoCrv&show_icons=true&locale=en&theme=onedark" alt="TimeoCrv" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TimeoCrv&theme=onedark" alt="TimeoCrv" /></p>
